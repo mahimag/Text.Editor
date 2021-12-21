@@ -6,7 +6,7 @@ and with some work, may even become your personal favorite.
 You should get to a point where Wee is working enough that you can continue developing Wee using Wee! 
 How's that for recursion?
 
-The full project writeup is available [here](https://docs.google.com/document/d/1k6GFOYSCLteJvejpsdNFI1JaIKLd92TM3L2t039Mnbg/edit?usp=sharing).
+The full project writeup is available [here](https://docs.google.com/document/d/1P0J_PfNXUof1qpDEKC8XHGyOh528jSK8wruBnZBjezw/edit?usp=sharing).
 
 **User Input Instructions:**
 1. Git clone this repo
